@@ -41,7 +41,7 @@ def create_db_connection():
             host='localhost',
             database='heartdisease',
             user='root',
-            password='root'
+            password='ashraf'
         )
         if connection.is_connected():
             return connection
