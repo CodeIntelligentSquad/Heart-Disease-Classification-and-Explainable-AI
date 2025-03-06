@@ -55,7 +55,8 @@ This ensures the model excels at **catching true heart disease cases** while kee
 
 This project explored Another models, including Artificial Neural Networks (ANN). Below is the **training vs validation accuracy** plot over 100 epochs when training the ANN:
 
-![4](https://github.com/user-attachments/assets/828688a2-52f0-4267-9980-06a5acbb3459)
+![output](https://github.com/user-attachments/assets/60863bc7-f414-4511-9f77-687e8b949cbd)
+
 
 
 The plot shows:
