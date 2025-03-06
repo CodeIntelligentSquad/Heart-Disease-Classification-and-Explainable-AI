@@ -6,7 +6,7 @@
 
 Heart disease is one of the leading causes of death worldwide. Early detection can save lives. This project builds a **machine learning model** to predict heart disease based on medical data (age, blood pressure, cholesterol, etc.), combined with **Explainable AI (XAI)** to show why the model made each prediction.
 
-This system is designed for both **healthcare professionals** and **patients**, offering predictions along with transparent explanations using **SHAP (SHapley Additive ExPlanations)**.
+This system is designed for both **healthcare professionals** and **patients**, offering predictions along with transparent explanations using **SHAP (SHapley Additive ExPlanations)** && **&& LIME (Local  Interpretable Model-agnostic Explanations)**.
 
 ---
 
